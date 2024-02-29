@@ -23,7 +23,7 @@ Cons:
 Necessitates proficiency in Node.js and asynchronous programming patterns.
 Requires careful evaluation of middleware for security, performance, and maintenance implications.
 
-# sample code
+## sample code
 
 const express = require('express');
 const app = express();
@@ -62,7 +62,7 @@ Cons:
 Requires adherence to the MVC pattern, potentially necessitating training.
 Evaluation and integration of templating engines for view rendering might be needed.
 
-# sample code
+## sample code
 
 // app.js - Entry point
 const express = require('express');
